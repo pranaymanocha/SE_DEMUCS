@@ -1,9 +1,3 @@
-'''
-pytorch implementation Adrien Bitton
-link: https://github.com/adrienchaton/PerceptualAudio_pytorch
-paper codes Pranay Manocha
-link: https://github.com/pranaymanocha/PerceptualAudio
-'''
 
 import torch
 import numpy as np
